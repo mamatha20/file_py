@@ -1,0 +1,5 @@
+l1=["M","na","i","ke"]
+l2=["y","me","s","lly"]
+m=l1+l2
+i=0
+while i<len(l1):
